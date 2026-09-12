@@ -4,11 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Cliente de la versión SIN Flyweight, bajo las mismas condiciones
- * que conflyweight.Main (misma cantidad de Gunters, mismos tipos,
- * misma forma de medir memoria) para que la comparación sea justa.
- */
+
 public class Main {
 
     private static final int TOTAL_GUNTERS = 100_000;
