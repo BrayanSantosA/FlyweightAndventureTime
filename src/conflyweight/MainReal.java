@@ -9,7 +9,6 @@ public class MainReal {
 
     private static final int TOTAL_GUNTERS = 100_000;
     private static final int LINEAS_DE_MUESTRA = 10;
-
     public static void main(String[] args) {
         Random random = new Random();
         FabricaGunter fabrica = new FabricaGunter();
